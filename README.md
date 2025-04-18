@@ -14,3 +14,8 @@ If the simulation predicts the jump will land the ball close enough to the hole 
 Install the userscript with a manager like Tampermonkey.
 Visit the game page: https://bocchinet.com/GQux/
 The script will run automatically.
+
+
+
+https://github.com/user-attachments/assets/1a7adebb-0dfa-4db1-9155-68e745f0b3cb
+
